@@ -3,7 +3,7 @@ How to build a minimum spanning tree c++ ???
 
 Here is how i implement it
 -----------------------------------------
-
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 const int INF=0x3f3f3f3f;
@@ -47,7 +47,7 @@ int main(){
     }
     prim(v);   
 }
-
+```
 
 
 
