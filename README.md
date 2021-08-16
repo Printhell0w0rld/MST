@@ -1,5 +1,5 @@
 # MST
-How to build a minimum spanning tree c++ ???
+Build a minimum spanning tree c++ 
 
 Here is how i implement it
 -----------------------------------------
