@@ -1,5 +1,5 @@
 # MST
-Build a minimum spanning tree c++ 
+Build a minimum spanning tree in Prim's algorithm.
 
 Here is how i implement it
 -----------------------------------------
